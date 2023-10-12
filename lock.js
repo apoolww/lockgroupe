@@ -24,6 +24,3 @@ client.on('ready', async () => {
 })
 
 client.login("ton token")
-
-//apoo",<#9999
-//commencer pas a dire gngngnn tu token grab chp quoi 
